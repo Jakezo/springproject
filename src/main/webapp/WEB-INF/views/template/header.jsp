@@ -22,6 +22,7 @@
 	width: 100%;
 	margin-left: 1.5em;
 }
+
 @font-face {
 	font-family: 'puren';
 	src: url(resources/fonts/PureunJeonnam.ttf);
